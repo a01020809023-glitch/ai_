@@ -4,4 +4,4 @@ st.write('안녕하세요, 감사해용 잘있어용!')
 name=st.text_input('너의 이름은!')
 if st.button('인사말 생성'):
   st.write(name+'님!! 반갑습니다!!!')
-  st.ballons()
+  st.balloons()
